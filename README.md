@@ -1,6 +1,6 @@
 # Data-Science
 
-##Data science studies
+## Data science studies
 
 * Iris Decision Tree
 * Iris K-means
